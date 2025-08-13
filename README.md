@@ -9,5 +9,5 @@
 <br>5.	Apply computational theory to real-world applications like compilers and parsers.</br>
 
 ## **Playlist**
-<br> Farhan Feroz YT Playlist https://www.youtube.com/watch?v=vPrOmBKQfdw&list=PLBENQsMXh3gz85EJ3ZCSa9l9hnUiOer-H</br>
-<br> KKP YT Playlist https://www.youtube.com/results?search_query=cse331+kkp</br>
+<br> **Farhan Feroz YT Playlist:** https://www.youtube.com/watch?v=vPrOmBKQfdw&list=PLBENQsMXh3gz85EJ3ZCSa9l9hnUiOer-H</br>
+<br> **KKP YT Playlist:** https://www.youtube.com/results?search_query=cse331+kkp</br>
